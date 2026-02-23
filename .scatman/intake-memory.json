@@ -1,0 +1,24 @@
+{
+  "kind": "scatman.intake-memory",
+  "version": 1,
+  "repoFullName": "rtrecogu-cyber/scatman",
+  "updatedAt": "2026-02-23T23:34:20.215Z",
+  "repo": {
+    "provider": "github",
+    "repoId": "1165200775",
+    "defaultBranch": "main",
+    "initializedBy": "repo-onboarding"
+  },
+  "memory": {
+    "repoFullName": "rtrecogu-cyber/scatman",
+    "lastBranch": "main",
+    "preferredFastTrackType": null,
+    "recentRunCount": 0,
+    "successfulRunCount": 0,
+    "recentEstimateCount": 0,
+    "lastRunId": null,
+    "lastRunFinishedAt": null,
+    "updatedAt": "2026-02-23T23:34:20.215Z",
+    "sessions": []
+  }
+}
