@@ -2,7 +2,7 @@
   "kind": "scatman.intake-memory",
   "version": 1,
   "repoFullName": "rtrecogu-cyber/scatman",
-  "updatedAt": "2026-02-23T23:47:02.256Z",
+  "updatedAt": "2026-02-23T23:51:10.276Z",
   "memory": {
     "repoFullName": "rtrecogu-cyber/scatman",
     "lastBranch": "main",
@@ -12,11 +12,11 @@
     "recentEstimateCount": 1,
     "lastRunId": null,
     "lastRunFinishedAt": null,
-    "updatedAt": "2026-02-23T23:47:02.256Z",
+    "updatedAt": "2026-02-23T23:51:10.276Z",
     "sessions": [
       {
         "sessionId": "2e572681-e4c9-47ec-b479-928cc88e708f",
-        "status": "confirming",
+        "status": "confirmed",
         "fastTrackType": "new-app",
         "repoFullName": "rtrecogu-cyber/scatman",
         "branch": "main",
@@ -30,12 +30,12 @@
         "estimateMaxUsd": 660,
         "estimateConfidence": "low",
         "estimateAccepted": true,
-        "workorderId": null,
+        "workorderId": "2aecc4b6-63fd-4509-8b47-ee8ac7d6729d",
         "runId": null,
         "archivedAt": "2026-02-23T23:46:28.955Z",
         "archivedReason": "estimate_generated",
         "createdAt": "2026-02-23T23:35:59.277Z",
-        "updatedAt": "2026-02-23T23:46:56.801Z"
+        "updatedAt": "2026-02-23T23:47:03.143Z"
       }
     ]
   }
